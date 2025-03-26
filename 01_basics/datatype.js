@@ -10,8 +10,20 @@ console.log("suman")
 let name = "suman"
 let age = 21
 let isLoggedIn = false
+let state;
 
 // number => 2 to pwr 52
 // bigint 
 // string =""
-// boolean
+// boolean = true/fase
+// null = standalone value
+// undefined = 
+// symbol = unique
+
+
+// object 
+
+console.log(typeof undefined); // undefined
+console.log(typeof null);
+
+
